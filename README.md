@@ -6,19 +6,19 @@ I Have Used Goerli Network
 
 i also used the gnanche test network for the testing purpose
 
-RUN
+RUN:-
 
 In the project directory, you can run:
 
-// Install dependencies
+- Install dependencies
 npm install 
 
-API
+API:-
 Checkout to api 
 
 - login to infura and use the api key 
 
-MNEUMONIC
+MNEUMONIC:-
 
 Use the mnuemonic key used to create your metamask wallet
 
